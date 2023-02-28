@@ -1,2 +1,2 @@
-#\!bib/bash
- echoALX
+#!/bin/bash
+echo "ALX"
